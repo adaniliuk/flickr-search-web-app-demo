@@ -10,7 +10,7 @@ In order to run the app correctly you need to have the following requirements in
 
   - __NodeJS & NPM__ - Normally installed with one package, via [their main website](http://nodejs.org)
   - __SASS__ - SASS compiler, please follow instructions at [their main website](http://sass-lang.com/install)
-  - Demo Flickr Photos Search Web Service - can be cloned from [this repository]()
+  - Demo Flickr Photos Search Web Service - can be cloned from [this repository](https://github.com/adaniliuk/flickr-search-web-service-demo)
 
 ## The procedure
 
@@ -22,7 +22,7 @@ npm install
 
 This command will install the dependencies associated to the web service and testing process.
 
-Then be sure that Demo Search Web Service is up and running. Please follow instructions from [the corresponding repository]()
+Then be sure that Demo Search Web Service is up and running. Please follow instructions from [the corresponding repository](https://github.com/adaniliuk/flickr-search-web-service-demo)
 
 When Search Web Service is up and running, you should exec:
 
